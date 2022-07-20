@@ -1,4 +1,4 @@
 def square(x):
     return x * x
 
-number = 5
+number = 123
